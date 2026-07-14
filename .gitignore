@@ -15,3 +15,4 @@ data/NF-UNSW-NB15-v3/NF-UNSW-NB15-v3.csv
 data/pyg_graph_data/NF-UNSW-NB15-v3/test.pt
 data/pyg_graph_data/NF-UNSW-NB15-v3/train.pt
 data/pyg_graph_data/NF-UNSW-NB15-v3/val.pt
+null_models
